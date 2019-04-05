@@ -1,3 +1,2 @@
-# HellloWorld
-First repository: HelloWorld
-Create a develop branch
+#Learning Git
+First repository: Learning-Git
